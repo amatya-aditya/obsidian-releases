@@ -9042,5 +9042,12 @@
     "author": "pseudometa",
     "description": "Adds a no-op command to disable hotkeys.",
     "repo": "chrisgrieser/obsidian-nothing"
-  }
+  },
+  {
+	  "id": "obsidian-image-slider",
+    "name": "Image Slider",
+    "author": "A. Aditya",
+	  "description": "Add beautiful image carousel to your notes",
+    "repo": "amatya-aditya/obsidian-image-slider"
+}
 ]
